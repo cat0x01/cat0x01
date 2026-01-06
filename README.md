@@ -1,4 +1,4 @@
-## Hi 👋, I’m cat0x01 (Reda Enneg)
+## Hi 👋, I’m cat0x01 
 
 Breaking systems to understand how to secure them.  
 Focused on **Offensive Security** and the **Red Team journey**.
