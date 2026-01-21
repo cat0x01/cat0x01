@@ -1,95 +1,88 @@
-## Hi 👋, I’m cat0x01 
+# 👋 Hi, I'm cat0x01
 
-Breaking systems to understand how to secure them.  
-Focused on **Offensive Security** and the **Red Team journey**.
+Breaking systems to understand how to defend them.  
+Focused on **Offensive Security** and the **Red Team path**.
 
----
-
-## 🔴 About Me
-I’m a cybersecurity practitioner with a strong hands-on background in **offensive security**, built through labs, CTFs, real-world simulations, and continuous self-study.
-
-I use **Linux as my primary operating system**, work daily with security tools and scripts, and actively practice attacker methodologies across web, network, and system layers.
-
-My long-term goal is to operate as a **professional Red Team operator**, simulating real-world adversaries to help organizations improve their security posture.
+![Profile Views](https://komarev.com/ghpvc/?username=cat0x01&color=red&style=flat)
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 About Me
+I'm a cybersecurity practitioner specialized in **offensive security**, built through continuous hands-on practice: labs, CTFs, simulations, and self-directed learning.
 
-### 🔐 Offensive Security
-- Web Application Penetration Testing (OWASP Top 10)
-- Network Penetration Testing
-- Reconnaissance & Enumeration
-- Exploitation fundamentals
-- Privilege Escalation (Linux)
-- Red Team fundamentals
-- Blue & Purple Team awareness
+I use **Linux as my daily operating system**, write and test security scripts, and follow real attacker methodologies across **web, network, and system layers**.
+
+My goal is to grow into a **professional Red Team operator**, capable of emulating real-world adversaries to help organizations detect and strengthen their defenses.
 
 ---
 
-### 🌐 Networking
-- TCP/IP, DNS, HTTP/S
-- Network enumeration & scanning
-- Common network misconfigurations
-- CompTIA Network+ level knowledge (exam objectives covered)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cat0x01&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cat0x01&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cat0x01&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-### 🐧 Operating Systems
-- Linux (daily driver – primary OS)
-- Windows fundamentals & administration concepts
+## 🛠 Core Skills
+
+### 🔴 Offensive Security
+![Pentesting](https://img.shields.io/badge/Pentesting-red)
+![RedTeam](https://img.shields.io/badge/Red%20Team-darkred)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-critical)
+
+### 💻 Scripting & Dev
+![Python](https://img.shields.io/badge/Python-automation-blue)
+![Bash](https://img.shields.io/badge/Bash-Linux-black)
+![PHP](https://img.shields.io/badge/PHP-backend-purple)
+![C](https://img.shields.io/badge/C-low--level-lightgrey)
+
+### 🐧 Systems
+![Linux](https://img.shields.io/badge/Linux-primary-orange)
+![Windows](https://img.shields.io/badge/Windows-fundamentals-blue)
 
 ---
 
-### 💻 Programming & Scripting
-- Python (basics + security scripting & automation)
-- HTML / CSS / JavaScript (basics)
-- PHP (basics – backend understanding)
-- MySQL (basic queries & database logic)
-- C (basics – low-level understanding)
+## 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cat0x01&theme=darkhub&no-frame=true&row=1" />
+</p>
 
 ---
 
-### 🧠 Security Domains
-- Red Team operations
-- Blue Team fundamentals
-- Purple Team fundamentals
-- Dark web services analysis & safe navigation practices
-- Threat and service analysis in hidden networks
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cat0x01&theme=github-compact" />
+</p>
 
 ---
 
-## 🎓 Certifications & Training
-
-- **eJPTv2 – Junior Penetration Tester** (INE)
-- **Linux Foundation Certification**
-- **CRTA**
-- **Web Red Team Analyst (Web-RTA)** – CyberWarflare
-- **Purple Team Fundamentals**
-- **Blue Team Fundamentals**
-- **Security+ (Self-Study – Exam Objectives Covered)**
-- **Network+ (Self-Study – Exam Objectives Covered)**
-- **Cisco NetAcad**
-  - Ethical Hacker
-  - Linux Basics
-  - Network Basics
-
----
-
-## 🏆 Achievements
-- 🥇 **Top 1 Global on TryHackMe (This Month)**
-- 🇲🇦 **#1 Ranked in Morocco on TryHackMe (This Month)**
-- 🎓 eJPTv2 Certified
-- 🐧 Linux as primary operating system
+## 🎓 Certifications
+- eJPTv2 – Junior Penetration Tester (INE)
+- Linux Foundation Certification
+- CRTA
+- Web Red Team Analyst
+- Purple Team Fundamentals
+- Blue Team Fundamentals
+- Security+ (self-study)
+- Network+ (self-study)
+- Cisco NetAcad (Ethical Hacker, Linux, Networking)
 
 ---
 
 ## 🧪 Projects & Practice
-- Multiple hands-on security projects and labs
-- Custom scripts and small offensive security tools
-- CTF challenges and walkthroughs
-- Web & network security testing environments
-- Dark web analysis & research projects
+- Offensive security scripts & automation tools
+- Recon & enumeration frameworks
+- CTF writeups & labs
+- Web and network exploitation labs
+- Dark web research projects
 
 > Selected projects and writeups will be published progressively.
 
@@ -97,38 +90,32 @@ My long-term goal is to operate as a **professional Red Team operator**, simulat
 
 ## 🌱 Currently Learning
 - Advanced exploitation techniques
-- Active Directory fundamentals
+- Active Directory attacks
 - Red Team methodologies
-- OSCP-style labs and workflows
+- OSCP-style labs & workflows
 
 ---
 
 ## 🤝 Open to Collaborate On
 - Open-source security tools
-- Red Team & Offensive Security projects
-- CTF tooling and writeups
+- Red Team / offensive projects
+- CTF tooling & writeups
 
 ---
 
 ## 💬 Ask Me About
-- Linux & system internals
-- Web & Network Pentesting
-- TryHackMe & CTF strategies
-- Python scripting for security
-- Safe dark web navigation & analysis
+- Linux internals
+- Web & network pentesting
+- TryHackMe / CTF strategies
+- Python security automation
+- Dark web research (safe & legal)
 
 ---
 
-## 📂 Projects
-All my tools, labs, and experiments are available here:  
-👉 https://github.com/cat0x01
-
----
-
-## 📫 How to Reach Me
+## 📫 Contact
 - X (Twitter): https://x.com/cat0x01  
 - Email: cat0x01@proton.me
 
 ---
 
-> _Red Team is not a title — it’s a path._
+> *Red Team is not a title — it’s a discipline built through practice.*
