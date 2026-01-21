@@ -3,16 +3,16 @@
 Breaking systems to understand how to defend them.  
 Focused on **Offensive Security** and the **Red Team path**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=cat0x01&color=red&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=cat0x01&color=red)
 
 ---
 
 ## 🧠 About Me
-I'm a cybersecurity practitioner specialized in **offensive security**, built through continuous hands-on practice: labs, CTFs, simulations, and self-directed learning.
+I'm a cybersecurity practitioner focused on **offensive security**, built through hands-on labs, CTFs, simulations, and continuous self-learning.
 
-I use **Linux as my daily operating system**, write and test security scripts, and follow real attacker methodologies across **web, network, and system layers**.
+I use **Linux as my primary operating system**, write security scripts, and follow real attacker methodologies across **web, network, and system layers**.
 
-My goal is to grow into a **professional Red Team operator**, capable of emulating real-world adversaries to help organizations detect and strengthen their defenses.
+My long-term goal is to operate as a **professional Red Team operator**, emulating real-world adversaries to help organizations strengthen their defenses.
 
 ---
 
@@ -22,11 +22,25 @@ My goal is to grow into a **professional Red Team operator**, capable of emulati
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cat0x01&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=cat0x01&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cat0x01&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cat0x01&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cat0x01&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -38,33 +52,19 @@ My goal is to grow into a **professional Red Team operator**, capable of emulati
 ![RedTeam](https://img.shields.io/badge/Red%20Team-darkred)
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-critical)
 
-### 💻 Scripting & Dev
+### 💻 Scripting & Development
 ![Python](https://img.shields.io/badge/Python-automation-blue)
 ![Bash](https://img.shields.io/badge/Bash-Linux-black)
 ![PHP](https://img.shields.io/badge/PHP-backend-purple)
 ![C](https://img.shields.io/badge/C-low--level-lightgrey)
 
-### 🐧 Systems
+### 🐧 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-primary-orange)
 ![Windows](https://img.shields.io/badge/Windows-fundamentals-blue)
 
 ---
 
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cat0x01&theme=darkhub&no-frame=true&row=1" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cat0x01&theme=github-compact" />
-</p>
-
----
-
-## 🎓 Certifications
+## 🎓 Certifications & Training
 - eJPTv2 – Junior Penetration Tester (INE)
 - Linux Foundation Certification
 - CRTA
@@ -78,8 +78,8 @@ My goal is to grow into a **professional Red Team operator**, capable of emulati
 ---
 
 ## 🧪 Projects & Practice
-- Offensive security scripts & automation tools
-- Recon & enumeration frameworks
+- Offensive security tools & automation scripts
+- Reconnaissance & enumeration frameworks
 - CTF writeups & labs
 - Web and network exploitation labs
 - Dark web research projects
@@ -106,9 +106,9 @@ My goal is to grow into a **professional Red Team operator**, capable of emulati
 ## 💬 Ask Me About
 - Linux internals
 - Web & network pentesting
-- TryHackMe / CTF strategies
+- TryHackMe & CTF strategies
 - Python security automation
-- Dark web research (safe & legal)
+- Safe dark web research
 
 ---
 
